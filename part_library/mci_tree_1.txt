@@ -1,0 +1,15 @@
+{
+node: 0, fidx= 29, f_val= 13.0
+0 -> 1
+node: 1, fidx= 40, f_val= 12.0
+1 -> 2
+node: 2, fidx= 63, f_val= 5.0
+2 -> 3
+node: 3, leaf_value= 0.0
+2 -> 4
+node: 4, leaf_value= 0.0
+1 -> 5
+node: 5, leaf_value= 0.0
+0 -> 6
+node: 6, leaf_value= 0.0
+}
